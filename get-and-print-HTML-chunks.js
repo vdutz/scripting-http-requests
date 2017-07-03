@@ -21,7 +21,6 @@ function getAndPrintHTMLChunks () {
       console.log('Response stream complete.')
     })
   })
-
 }
 
 getAndPrintHTMLChunks()
